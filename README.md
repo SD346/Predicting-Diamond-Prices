@@ -1,54 +1,42 @@
-# **Project Summary**
+# **Predicting Diamond Prices**
 
-# Contents
+## [**Business Problem** ](#business-problem)
 
+## [**Dataset** ](#-dataset)
 
-[**Business Problem** ](#_Toc25797450)
--
+- [Structure of Dataset ](#structure-of-dataset)
 
-[**Dataset** ](#_Toc25797451)
--
+- [Dummy Variables ](#dummy-variables)
 
-[Structure of Dataset ](#_Toc25797452)
+- [Missing Values ](#missing-values)
 
-[Dummy Variables ](#_Toc25797453)
+- [Normalization ](#normalization)
+## [**EDA** ](#eda)
+- [Package ](#package)
+## [**Model Building** ](#model-building)
 
-[Missing Values ](#_Toc25797454)
+- [Splitting ](#splitting)
 
-[Normalization ](#_Toc25797455)
+- [Vanilla Model (Model – 1) ](#vanilla-model-model-–-1)
 
-[**EDA** ](#_Toc25797456)
--
+- [Model -2 ](#model--2)
 
-[Package ](#_Toc25797457)
+- [VIF/AV Plots ](#vifav-plots)
 
-[**Model Building** ](#_Toc25797458)
--
+- [Model - 3](#model---3)
 
-[Splitting ](#_Toc25797459)
+- [Model Deletion Diagnostics ](#model-deletion-diagnostics)
 
-[Vanilla Model (Model – 1) ](#_Toc25797460)
+- [Model – 4 ](#model-–-4)
 
-[Model -2 ](#_Toc25797461)
+- [Model - 5 ](#-model---5)
 
-[VIF/AV Plots ](#_Toc25797462)
+- [Step AIC ](#step-aic)
 
-[Model - 3](#_Toc25797463)
+- [Model - 6 ](#model---6)
 
-[Model Deletion Diagnostics ](#_Toc25797464)
-
-[Model – 4 ](#_Toc25797465)
-
-[Model - 5 ](#_Toc25797466)
-
-[Step AIC ](#_Toc25797467)
-
-[Model - 6 ](#_Toc25797468)
-
-[**Predictions** ](#_Toc25797469)
--
-
-[RMSE ](#_Toc25797470)
+## [**Predictions** ](#predictions)
+- [RMSE ](#rmse)
 
 ## **Business Problem**
 
